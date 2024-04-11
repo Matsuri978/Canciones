@@ -1,0 +1,52 @@
+{
+    "canciones": [
+        {
+            "titulo": "Perfect",
+            "artista": "Ed Sheeran",
+            "genero": "Pop",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/ed_sheeran-perfect.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/ed_sheeran-perfect.jpg"
+        },
+        {
+            "titulo": "Starboy",
+            "artista": "The Weekend",
+            "genero": "Rap",
+            "feat": "Daft Punk",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/the_weeknd-starboy.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/the_weekend-starboy.jpg"
+        },
+        {
+            "titulo": "Hoy me levante",
+            "artista": "Adrey Serrano",
+            "genero": "Pop",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/andrey _serrano- hoy_me_levante.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/andrey _serrano- hoy_me_levante.jpg"
+        },
+        {
+            "titulo": "Devuélveme a mi chica",
+            "artista": "Hombres G",
+            "genero": "Rock",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/hombres_g-devuelveme_a_mi_chica.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/hombres_g-devuelveme_a_mi_chica.jpg"
+        },
+        {
+            "titulo": "Hey Brother",
+            "artista": "Avicii",
+            "genero": "Electrónica",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/avicii-hey_brother.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/avicii-hey_brother.jpg"
+        },
+        {
+            "titulo": "",
+            "artista": "",
+            "genero": "",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/"
+        }
+    ]
+}
