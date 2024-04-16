@@ -8,15 +8,6 @@
             "feat": "",
             "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/ed_sheeran-shape_of_you.mp3",
             "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/ed_sheeran-shape_of_you.jpg"
-        },
-        {
-            "titulo": "Perfect",
-            "artista": "Ed Sheeran",
-            "id": "1",
-            "genero": "Pop",
-            "feat": "",
-            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/ed_sheeran-perfect.mp3",
-            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/ed_sheeran-perfect.jpg"
         }
     ]
 }

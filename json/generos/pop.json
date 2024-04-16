@@ -1,6 +1,24 @@
 {
     "canciones": [
          {
+            "titulo": "Shape of you",
+            "artista": "Ed Sheeran",
+            "id": "8",
+            "genero": "Pop",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/ed_sheeran-shape_of_you.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/ed_sheeran-shape_of_you.jpg"
+        },
+        {
+            "titulo": "La promesa",
+            "artista": "Melendi",
+            "id": "7",
+            "genero": "Pop",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/melendi-la_promesa.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/melendi-la_promesa.jpg"
+        },
+        {
             "titulo": "Hoy me levante",
             "artista": "Andrey Serrano",
             "id": "3",
