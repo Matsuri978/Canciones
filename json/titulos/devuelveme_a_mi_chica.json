@@ -1,0 +1,13 @@
+{
+    "canciones": [
+         {
+            "titulo": "Devuélveme a mi chica",
+            "artista": "Hombres G",
+            "id": "4",
+            "genero": "Rock",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/hombres_g-devuelveme_a_mi_chica.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/hombres_g-devuelveme_a_mi_chica.jpg"
+        }
+    ]
+}

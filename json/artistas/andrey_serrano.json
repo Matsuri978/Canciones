@@ -1,0 +1,13 @@
+{
+    "canciones": [
+         {
+            "titulo": "Hoy me levante",
+            "artista": "Andrey Serrano",
+            "id": "3",
+            "genero": "Pop",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/andrey_serrano-hoy_me_levante.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/andrey_serrano-hoy_me_levante.jpg"
+        }
+    ]
+}
