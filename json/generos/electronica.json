@@ -1,6 +1,15 @@
 {
     "canciones": [
          {
+            "titulo": "Animals",
+            "artista": "Martin Garrix",
+            "id": "32",
+            "genero": "Electrónica",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/martin_garrix-animals.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/martin_garrix-animals.jpg"
+        },
+        {
             "titulo": "Starboy",
             "artista": "The Weeknd",
             "id": "20",

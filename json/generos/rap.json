@@ -46,13 +46,13 @@
             "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/keyblade-finn_vs_mordecai.jpg"
         },
         {
-            "titulo": "Creeper vs Zombies",
+            "titulo": "Creeper vs Zombie",
             "artista": "Zarcort",
             "id": "24",
             "genero": "Rap",
             "feat": "Cyclo, Peter G",
-            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/zarcort-creeper_vs_zombies.mp3",
-            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/zarcort-creeper_vs_zombies.jpg"
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/zarcort-creeper_vs_zombie.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/zarcort-creeper_vs_zombie.jpg"
         }
     ]
 }
