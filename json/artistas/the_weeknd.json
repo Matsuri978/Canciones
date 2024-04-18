@@ -1,0 +1,13 @@
+{
+    "canciones": [
+         {
+            "titulo": "Star Boy",
+            "artista": "The Weeknd",
+            "id": "20",
+            "genero": "Electrónica",
+            "feat": "Daft Punk",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/the_weeknd-star_boy.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/the_weeknd-star_boy.jpg"
+        }
+    ]
+}
