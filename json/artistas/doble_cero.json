@@ -1,0 +1,13 @@
+{
+    "canciones": [
+         {
+            "titulo": "Qin Shin Huang",
+            "artista": "Doble Cero",
+            "id": "29",
+            "genero": "Rap",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/doble_cero-qin_shin_huang.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/doble_cero-qin_shin_huang.jpg"
+        }
+    ]
+}

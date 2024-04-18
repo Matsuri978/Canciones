@@ -1,0 +1,13 @@
+{
+    "canciones": [
+         {
+            "titulo": "Finn vs Mordecai",
+            "artista": "Keyblade",
+            "id": "25",
+            "genero": "Rap",
+            "feat": "Kinox y Vau Boy",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/keyblade-finn_vs_mordecai.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/keyblade-finn_vs_mordecai.jpg"
+        }
+    ]
+}

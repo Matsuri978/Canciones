@@ -1,0 +1,13 @@
+{
+    "canciones": [
+         {
+            "titulo": "Hommer vs Peter",
+            "artista": "Keyblade",
+            "id": "26",
+            "genero": "Rap",
+            "feat": "Zarcort",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/keyblade-hommer_vs_peter.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/keyblade-hommer_vs_peter.jpg"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "canciones": [
+         {
+            "titulo": "Qin Shin Huang",
+            "artista": "Doble Cero",
+            "id": "29",
+            "genero": "Rap",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/doble_cero-qin_shin_huang.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/doble_cero-qin_shin_huang.jpg"
+        },
+        {
+            "titulo": "Hakari First Blood",
+            "artista": "MegaR",
+            "id": "28",
+            "genero": "Rap",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/megar-hakari_first_blood.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/megar-hakari_first_blood.jpg"
+        },
+        {
+            "titulo": "Assasins creed Unity",
+            "artista": "Zarcort",
+            "id": "27",
+            "genero": "Rap",
+            "feat": "Dan Bull",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/zarcort-assasins_creed_unity.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/zarcort-assasins_creed_unity.jpg"
+        },
+        {
+            "titulo": "Hommer vs Peter",
+            "artista": "Keyblade",
+            "id": "26",
+            "genero": "Rap",
+            "feat": "Zarcort",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/keyblade-hommer_vs_peter.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/keyblade-hommer_vs_peter.jpg"
+        },
+        {
+            "titulo": "Finn vs Mordecai",
+            "artista": "Keyblade",
+            "id": "25",
+            "genero": "Rap",
+            "feat": "Kinox y Vau Boy",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/keyblade-finn_vs_mordecai.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/keyblade-finn_vs_mordecai.jpg"
+        },
+        {
+            "titulo": "Creeper vs Zombies",
+            "artista": "Zarcort",
+            "id": "24",
+            "genero": "Rap",
+            "feat": "Cyclo, Peter G",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/zarcort-creeper_vs_zombies.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/zarcort-creeper_vs_zombies.jpg"
+        }
+    ]
+}

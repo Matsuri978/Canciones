@@ -1,0 +1,13 @@
+{
+    "canciones": [
+         {
+            "titulo": "Lady Killers II",
+            "artista": "G-Eazy",
+            "id": "2",
+            "genero": "Hip-hop",
+            "feat": "Christoph Andersson",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/g-eazy-lady_killers_ii.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/g-eazy-lady_killers_ii.jpg"
+        }
+    ]
+}

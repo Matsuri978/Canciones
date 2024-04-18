@@ -1,0 +1,13 @@
+{
+    "canciones": [
+         {
+            "titulo": "Hakari First Blood",
+            "artista": "MegaR",
+            "id": "28",
+            "genero": "Rap",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/megar-hakari_first_blood.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/megar-hakari_first_blood.jpg"
+        }
+    ]
+}

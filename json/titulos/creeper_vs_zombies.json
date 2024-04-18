@@ -1,0 +1,13 @@
+{
+    "canciones": [
+         {
+            "titulo": "Creeper vs Zombies",
+            "artista": "Zarcort",
+            "id": "24",
+            "genero": "Rap",
+            "feat": "Cyclo, Peter G",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/zarcort-creeper_vs_zombies.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/zarcort-creeper_vs_zombies.jpg"
+        }
+    ]
+}
