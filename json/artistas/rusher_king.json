@@ -1,0 +1,13 @@
+{
+    "canciones": [
+         {
+            "titulo": "Otra Noche más",
+            "artista": "Rusher King",
+            "id": "15",
+            "genero": "Música Urbana",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/rusher_king-otra_noche_mas.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/rusher_king-otra_noche_mas.jpg"
+        }
+    ]
+}

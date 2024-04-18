@@ -1,6 +1,33 @@
 {
     "canciones": [
          {
+            "titulo": "Barbie de extrarradio",
+            "artista": "Melendi",
+            "id": "17",
+            "genero": "Rock",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/melendi-barbie_de_extrarradio.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/melendi-barbie_de_extrarradio.jpg"
+        },
+        {
+            "titulo": "Amorfoda",
+            "artista": "Bad Bunny",
+            "id": "16",
+            "genero": "Rock",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/bad_bunny-amorfoda.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/bad_bunny-amorfoda.jpg"
+        },
+        {
+            "titulo": "Por la boca vive el pez",
+            "artista": "Fito y Fitipaldis",
+            "id": "12",
+            "genero": "Rock",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/fito_y_fitipaldis-por_la_boca_vive_el_pez.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/fito_y_fitipaldis-por_la_boca_vive_el_pez.jpg"
+        },
+        {
             "titulo": "Como Camarón",
             "artista": "Estopa",
             "id": "6",

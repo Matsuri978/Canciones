@@ -1,0 +1,13 @@
+{
+    "canciones": [
+         {
+            "titulo": "Por la boca vive el pez",
+            "artista": "Fito y Fitipaldis",
+            "id": "12",
+            "genero": "Rock",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/fito_y_fitipaldis-por_la_boca_vive_el_pez.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/fito_y_fitipaldis-por_la_boca_vive_el_pez.jpg"
+        }
+    ]
+}

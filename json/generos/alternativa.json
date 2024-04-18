@@ -1,0 +1,40 @@
+{
+    "canciones": [
+         {
+            "titulo": "Flawless",
+            "artista": "The Neighbourhood",
+            "id": "18",
+            "genero": "Alternativa",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/the_neighbourhood-flawless.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/the_neighbourhood-flawless.jpg"
+        },
+        {
+            "titulo": "Two Moons",
+            "artista": "BoyWithUke",
+            "id": "14",
+            "genero": "Alternativa",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/boywithuke-two_moons.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/boywithuke-two_moons.jpg"
+        },
+        {
+            "titulo": "Let Her Go",
+            "artista": "Passenger",
+            "id": "11",
+            "genero": "Alternativa",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/passenger-let_her_go.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/passenger-let_her_go.jpg"
+        },
+        {
+            "titulo": "Afraid",
+            "artista": "The Neighbourhood",
+            "id": "10",
+            "genero": "Alternativa",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/the_neighbourhood-afraid.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/the_neighbourhood-afraid.jpg"
+        }
+    ]
+}

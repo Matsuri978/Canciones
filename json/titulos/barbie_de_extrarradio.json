@@ -1,0 +1,13 @@
+{
+    "canciones": [
+         {
+            "titulo": "Barbie de extrarradio",
+            "artista": "Melendi",
+            "id": "17",
+            "genero": "Rock",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/melendi-barbie_de_extrarradio.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/melendi-barbie_de_extrarradio.jpg"
+        }
+    ]
+}

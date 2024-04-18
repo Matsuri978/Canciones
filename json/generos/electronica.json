@@ -1,6 +1,24 @@
 {
     "canciones": [
          {
+            "titulo": "Starboy",
+            "artista": "The Weeknd",
+            "id": "20",
+            "genero": "Electrónica",
+            "feat": "Daft Punk",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/the_weeknd-starboy.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/the_weeknd-starboy.jpg"
+        },
+        {
+            "titulo": "The Nights",
+            "artista": "Avicii",
+            "id": "19",
+            "genero": "Electrónica",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/avicii-the_nights.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/avicii-the_nights.jpg"
+        },
+        {
             "titulo": "Hey Brother",
             "artista": "Avicii",
             "id": "5",

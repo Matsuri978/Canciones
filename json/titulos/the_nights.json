@@ -1,0 +1,13 @@
+{
+    "canciones": [
+         {
+            "titulo": "The Nights",
+            "artista": "Avicii",
+            "id": "19",
+            "genero": "Electrónica",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/avicii-the_nights.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/avicii-the_nights.jpg"
+        }
+    ]
+}

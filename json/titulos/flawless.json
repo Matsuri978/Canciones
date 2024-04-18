@@ -1,0 +1,13 @@
+{
+    "canciones": [
+         {
+            "titulo": "Flawless",
+            "artista": "The Neighbourhood",
+            "id": "18",
+            "genero": "Alternativa",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/the_neighbourhood-flawless.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/the_neighbourhood-flawless.jpg"
+        }
+    ]
+}
