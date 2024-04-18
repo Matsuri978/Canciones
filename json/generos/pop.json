@@ -1,6 +1,33 @@
 {
     "canciones": [
          {
+            "titulo": "What Makes You Beautiful",
+            "artista": "One Direction",
+            "id": "35",
+            "genero": "Pop",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/one_direction-what_makes_you_beautiful.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/one_direction-what_makes_you_beautiful.jpg"
+        },
+        {
+            "titulo": "Shivers",
+            "artista": "Ed Sheeran",
+            "id": "34",
+            "genero": "Pop",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/ed_sheeran-shivers.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/ed_sheeran-shivers.jpg"
+        },
+        {
+            "titulo": "Photograph ",
+            "artista": "Ed Sheeran",
+            "id": "33",
+            "genero": "Pop",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/ed_sheeran-photograph_.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/ed_sheeran-photograph_.jpg"
+        },
+        {
             "titulo": "Ave María",
             "artista": "David Bisbal",
             "id": "22",

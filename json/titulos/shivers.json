@@ -1,0 +1,13 @@
+{
+    "canciones": [
+         {
+            "titulo": "Shivers",
+            "artista": "Ed Sheeran",
+            "id": "34",
+            "genero": "Pop",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/ed_sheeran-shivers.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/ed_sheeran-shivers.jpg"
+        }
+    ]
+}

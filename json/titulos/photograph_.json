@@ -1,0 +1,13 @@
+{
+    "canciones": [
+         {
+            "titulo": "Photograph ",
+            "artista": "Ed Sheeran",
+            "id": "33",
+            "genero": "Pop",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/ed_sheeran-photograph_.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/ed_sheeran-photograph_.jpg"
+        }
+    ]
+}

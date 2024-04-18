@@ -1,0 +1,13 @@
+{
+    "canciones": [
+         {
+            "titulo": "What Makes You Beautiful",
+            "artista": "One Direction",
+            "id": "35",
+            "genero": "Pop",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/one_direction-what_makes_you_beautiful.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/one_direction-what_makes_you_beautiful.jpg"
+        }
+    ]
+}
