@@ -1,54 +1,310 @@
 {
     "canciones": [
-        {
-            "titulo": "Perfect",
-            "artista": "Ed Sheeran",
+         {
+            "titulo": "What Makes You Beautiful",
+            "artista": "One Direction",
+            "id": "34",
             "genero": "Pop",
             "feat": "",
-            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/ed_sheeran-perfect.mp3",
-            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/ed_sheeran-perfect.jpg"
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/one_direction-what_makes_you_beautiful.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/one_direction-what_makes_you_beautiful.jpg"
         },
         {
-
-
+            "titulo": "Shivers",
+            "artista": "Ed Sheeran",
+            "id": "33",
+            "genero": "Pop",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/ed_sheeran-shivers.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/ed_sheeran-shivers.jpg"
+        },
+        {
+            "titulo": "Photograph",
+            "artista": "Ed Sheeran",
+            "id": "32",
+            "genero": "Pop",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/ed_sheeran-photograph.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/ed_sheeran-photograph.jpg"
+        },
+        {
+            "titulo": "Animals",
+            "artista": "Martin Garrix",
+            "id": "31",
+            "genero": "Electrónica",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/martin_garrix-animals.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/martin_garrix-animals.jpg"
+        },
+        {
+            "titulo": "Animals",
+            "artista": "Marron 5",
+            "id": "30",
+            "genero": "Rock",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/marron_5-animals.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/marron_5-animals.jpg"
+        },
+        {
+            "titulo": "Qin Shin Huang",
+            "artista": "Doble Cero",
+            "id": "29",
+            "genero": "Rap",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/doble_cero-qin_shin_huang.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/doble_cero-qin_shin_huang.jpg"
+        },
+        {
+            "titulo": "Hakari First Blood",
+            "artista": "MegaR",
+            "id": "28",
+            "genero": "Rap",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/megar-hakari_first_blood.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/megar-hakari_first_blood.jpg"
+        },
+        {
+            "titulo": "Assasins creed Unity",
+            "artista": "Zarcort",
+            "id": "27",
+            "genero": "Rap",
+            "feat": "Dan Bull",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/zarcort-assasins_creed_unity.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/zarcort-assasins_creed_unity.jpg"
+        },
+        {
+            "titulo": "Homer vs Peter",
+            "artista": "Keyblade",
+            "id": "26",
+            "genero": "Rap",
+            "feat": "Zarcort",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/keyblade-homer_vs_peter.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/keyblade-homer_vs_peter.jpg"
+        },
+        {
+            "titulo": "Finn vs Mordecai",
+            "artista": "Keyblade",
+            "id": "25",
+            "genero": "Rap",
+            "feat": "Kinox y Vau Boy",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/keyblade-finn_vs_mordecai.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/keyblade-finn_vs_mordecai.jpg"
+        },
+        {
+            "titulo": "Creeper vs Zombie",
+            "artista": "Zarcort",
+            "id": "24",
+            "genero": "Rap",
+            "feat": "Cyclo, Peter G",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/zarcort-creeper_vs_zombie.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/zarcort-creeper_vs_zombie.jpg"
+        },
+        {
+            "titulo": "Estoy bien",
+            "artista": "PANTHER",
+            "id": "23",
+            "genero": "RyB",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/panther-estoy_bien.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/panther-estoy_bien.jpg"
+        },
+        {
+            "titulo": "Ave María",
+            "artista": "David Bisbal",
+            "id": "22",
+            "genero": "Pop",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/david_bisbal-ave_maria.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/david_bisbal-ave_maria.jpg"
+        },
+        {
+            "titulo": "Sweater Weather",
+            "artista": "The Neighbourhood",
+            "id": "21",
+            "genero": "Alternativa",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/the_neighbourhood-sweater_weather.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/the_neighbourhood-sweater_weather.jpg"
+        },
+        {
             "titulo": "Starboy",
             "artista": "The Weeknd",
-            "genero": "Rap",
+            "id": "20",
+            "genero": "Electrónica",
             "feat": "Daft Punk",
             "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/the_weeknd-starboy.mp3",
             "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/the_weeknd-starboy.jpg"
         },
         {
-            "titulo": "Hoy me levante",
-            "artista": "Adrey Serrano",
-            "genero": "Pop",
+            "titulo": "The Nights",
+            "artista": "Avicii",
+            "id": "19",
+            "genero": "Electrónica",
             "feat": "",
-            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/andrey _serrano- hoy_me_levante.mp3",
-            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/andrey _serrano- hoy_me_levante.jpg"
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/avicii-the_nights.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/avicii-the_nights.jpg"
         },
         {
-            "titulo": "Devuélveme a mi chica",
-            "artista": "Hombres G",
+            "titulo": "Flawless",
+            "artista": "The Neighbourhood",
+            "id": "18",
+            "genero": "Alternativa",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/the_neighbourhood-flawless.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/the_neighbourhood-flawless.jpg"
+        },
+        {
+            "titulo": "Barbie de extrarradio",
+            "artista": "Melendi",
+            "id": "17",
             "genero": "Rock",
             "feat": "",
-            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/hombres_g-devuelveme_a_mi_chica.mp3",
-            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/hombres_g-devuelveme_a_mi_chica.jpg"
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/melendi-barbie_de_extrarradio.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/melendi-barbie_de_extrarradio.jpg"
+        },
+        {
+            "titulo": "Amorfoda",
+            "artista": "Bad Bunny",
+            "id": "16",
+            "genero": "Rock",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/bad_bunny-amorfoda.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/bad_bunny-amorfoda.jpg"
+        },
+        {
+            "titulo": "Otra Noche más",
+            "artista": "Rusher King",
+            "id": "15",
+            "genero": "Música Urbana",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/rusher_king-otra_noche_mas.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/rusher_king-otra_noche_mas.jpg"
+        },
+        {
+            "titulo": "Two Moons",
+            "artista": "BoyWithUke",
+            "id": "14",
+            "genero": "Alternativa",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/boywithuke-two_moons.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/boywithuke-two_moons.jpg"
+        },
+        {
+            "titulo": "Happy",
+            "artista": "Pharrell Williams",
+            "id": "13",
+            "genero": "Pop",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/pharrell_williams-happy.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/pharrell_williams-happy.jpg"
+        },
+        {
+            "titulo": "Por la boca vive el pez",
+            "artista": "Fito y Fitipaldis",
+            "id": "12",
+            "genero": "Rock",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/fito_y_fitipaldis-por_la_boca_vive_el_pez.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/fito_y_fitipaldis-por_la_boca_vive_el_pez.jpg"
+        },
+        {
+            "titulo": "Let Her Go",
+            "artista": "Passenger",
+            "id": "11",
+            "genero": "Alternativa",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/passenger-let_her_go.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/passenger-let_her_go.jpg"
+        },
+        {
+            "titulo": "Afraid",
+            "artista": "The Neighbourhood",
+            "id": "10",
+            "genero": "Alternativa",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/the_neighbourhood-afraid.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/the_neighbourhood-afraid.jpg"
+        },
+        {
+            "titulo": "Te encontré",
+            "artista": "El Vega",
+            "id": "9",
+            "genero": "Música Urbana",
+            "feat": "Lil Silvio",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/el_vega-te_encontre.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/el_vega-te_encontre.jpg"
+        },
+        {
+            "titulo": "Shape of you",
+            "artista": "Ed Sheeran",
+            "id": "8",
+            "genero": "Pop",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/ed_sheeran-shape_of_you.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/ed_sheeran-shape_of_you.jpg"
+        },
+        {
+            "titulo": "La promesa",
+            "artista": "Melendi",
+            "id": "7",
+            "genero": "Pop",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/melendi-la_promesa.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/melendi-la_promesa.jpg"
+        },
+        {
+            "titulo": "Como Camarón",
+            "artista": "Estopa",
+            "id": "6",
+            "genero": "Rock",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/estopa-como_camaron.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/estopa-como_camaron.jpg"
         },
         {
             "titulo": "Hey Brother",
             "artista": "Avicii",
+            "id": "5",
             "genero": "Electrónica",
             "feat": "",
             "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/avicii-hey_brother.mp3",
             "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/avicii-hey_brother.jpg"
         },
         {
-            "titulo": "",
-            "artista": "",
-            "genero": "",
+            "titulo": "Devuélveme a mi chica",
+            "artista": "Hombres G",
+            "id": "4",
+            "genero": "Rock",
             "feat": "",
-            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/",
-            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/"
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/hombres_g-devuelveme_a_mi_chica.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/hombres_g-devuelveme_a_mi_chica.jpg"
+        },
+        {
+            "titulo": "Hoy me levante",
+            "artista": "Andrey Serrano",
+            "id": "3",
+            "genero": "Pop",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/andrey_serrano-hoy_me_levante.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/andrey_serrano-hoy_me_levante.jpg"
+        },
+        {
+            "titulo": "Lady Killers II",
+            "artista": "G-Eazy",
+            "id": "2",
+            "genero": "Hip-hop",
+            "feat": "Christoph Andersson",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/g-eazy-lady_killers_ii.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/g-eazy-lady_killers_ii.jpg"
+        },
+        {
+            "titulo": "Perfect",
+            "artista": "Ed Sheeran",
+            "id": "1",
+            "genero": "Pop",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/ed_sheeran-perfect.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/ed_sheeran-perfect.jpg"
         }
     ]
 }
